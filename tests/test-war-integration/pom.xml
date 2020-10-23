@@ -53,7 +53,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-monitoring</artifactId>
-      <version>0.22.0-alpha</version>
+      <version>1.77.0</version>
     </dependency>
   </dependencies>
 
