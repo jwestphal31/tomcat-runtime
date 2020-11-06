@@ -34,7 +34,7 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-all</artifactId>
-      <version>1.4.0</version>
+      <version>1.21.0</version>
     </dependency>
     <!-- This is required to use SSL with GRPC
          (https://github.com/grpc/grpc-java/blob/master/SECURITY.md). -->
