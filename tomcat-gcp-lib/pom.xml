@@ -15,7 +15,7 @@
     <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>tomcat-catalina</artifactId>
-      <version>8.5.15</version>
+      <version>8.5.68</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -34,7 +34,7 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-all</artifactId>
-      <version>1.4.0</version>
+      <version>1.42.0</version>
     </dependency>
     <!-- This is required to use SSL with GRPC
          (https://github.com/grpc/grpc-java/blob/master/SECURITY.md). -->
